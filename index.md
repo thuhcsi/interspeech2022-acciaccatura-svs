@@ -14,7 +14,7 @@ Our goal is to predict the acciaccatura position and acciaccatura pitch from the
 
 ## PREDICTION ACCIACCATURA POSITION IS THE SAME AS LABELING
 
-The percentage of sentences predicted and labeled exactly the same is 69.61%.
+The percentage of sentences with the exact same predicted acciaccatura position and labeling was 69.61%.
 
 | No        | Labeled music score        | Audio | Without acciaccatura        | Audio | Predicted music score        | Audio |
 |:----------|:---------------------------|:------|:----------------------------|:------|:-----------------------------|:------|
